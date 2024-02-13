@@ -18,3 +18,7 @@ This project is built using simple yet powerful web technologies:
 - HTML
 - CSS
 - JavaScript
+- 
+## How to View
+
+To experience "Will You Be My Valentine?", simply visit [https://toksdetoks.github.io/bemyvalentine/](https://toksdetoks.github.io/bemyvalentine/) from any modern web browser.
