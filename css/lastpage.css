@@ -2,8 +2,8 @@ body {
   text-align: center;
   margin-top: 30px;
   font-family: "Courier";
-  background-color: #94ffc4;
-  color: #94ffc4;
+  background-color: #ff9494;
+  color: #ff9494;
 }
 #thankyou {
   font-size: 50px;
@@ -20,7 +20,7 @@ body {
   font-family: "courier";
   margin-bottom: 20px;
   background-color: #ffe3e1;
-  color: #94ffc4;
+  color: #ff9494;
   border-radius: 12px;
   border: 2px solid #ffe3e1;
   box-shadow: 1px 1px 2px #ff9494;
@@ -28,8 +28,8 @@ body {
 }
 
 .button:hover {
-  background-color: #94ffc4;
+  background-color: #ff9494;
   color: #ffe3e1;
-  border: 2px solid #94ffc4;
+  border: 2px solid #ff9494;
   box-shadow: 1px 1px 2px #ffe3e1;
 }
